@@ -24,7 +24,7 @@ Project is created with:
 
 ### ![](/screenshots/memory-game%20screenshot.png)
 
-### ![](/screenshots/memory-game%20screenshot2png)
+### ![](/screenshots/memory-game%20screenshot2.png)
 
 ### ![](/screenshots/memory-game%20screenshot3.png)
 
