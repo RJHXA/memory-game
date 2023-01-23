@@ -22,7 +22,12 @@ Project is created with:
 
 ## Screenshots
 
-### ![](/memory-game%20screenshot.png)
+### ![](/screenshots/memory-game%20screenshot.png)
+
+### ![](/screenshots/memory-game%20screenshot2png)
+
+### ![](/screenshots/memory-game%20screenshot3.png)
+
 
 ## Status
 
